@@ -25,7 +25,6 @@
 <li>For one cord: 30$</li>
 <li>Two cords: 50$</li>
 <li>Three cords: 75$</li>
-<li>Four Cords: 90$<br>
-[Go to this link to buy them](put the link here)</li>
+<li>Four Cords: 90$</li>
 </ul>
 
